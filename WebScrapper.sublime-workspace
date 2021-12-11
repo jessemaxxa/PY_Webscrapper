@@ -1,0 +1,289 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"methods"
+			],
+			[
+				"ra",
+				"raise_for_status"
+			],
+			[
+				"client",
+				"client_socket"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install package ",
+				"Package Control: Install Package"
+			],
+			[
+				"install package control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/hondaunispree/Scripts_Codes/Python/Requests_Network/Looped_requests.py",
+		"/home/hondaunispree/Scripts_Codes/Python/Requests_Network/Params_Requests.py",
+		"/home/hondaunispree/Scripts_Codes/Python/Requests_Network/requestsPractice.py",
+		"/home/hondaunispree/.local/lib/python3.7/site-packages/requests/__init__.py",
+		"/home/hondaunispree/Scripts_Codes/Python/Socket_networking/Socket_Server.py",
+		"/home/hondaunispree/Hack_The_Box/Secret/hasck.py",
+		"/home/hondaunispree/Hack_The_Box/Secret/JWT_Token_Secrets.txt",
+		"/home/hondaunispree/Hack_The_Box/Secret/gitdump/5-4e5547295cfe456d8ca7005cb823e1101fd1f9cb/.env",
+		"/mnt/chromeos/archive/files.zip/local-web/routes/auth.js",
+		"/mnt/chromeos/archive/files.zip/local-web/src/views/home.ejs",
+		"/mnt/chromeos/archive/files.zip/local-web/src/routes/web.js",
+		"/mnt/chromeos/archive/files.zip/local-web/routes/verifytoken.js",
+		"/home/hondaunispree/Hack_The_Box/Secret/README.md",
+		"/mnt/chromeos/archive/files.zip/local-web/public/assets/scss/config.codekit3",
+		"/mnt/chromeos/archive/files.zip/local-web/validations.js",
+		"/home/hondaunispree/Hack_The_Box/Secret/Token.txt",
+		"/home/hondaunispree/Hack_The_Box/Secret/gitdump/4-3a367e735ee76569664bf7754eaaade7c735d702/commit-meta.txt",
+		"/home/hondaunispree/Hack_The_Box/Secret/gitdump/3-de0a46b5107a2f4d26e348303e76d85ae4870934/commit-meta.txt",
+		"/home/hondaunispree/Hack_The_Box/Secret/gitdump/0-67d8da7a0e53d8fadeb6b36396d86cdcd4f6ec78/commit-meta.txt",
+		"/home/hondaunispree/Hack_The_Box/Secret/gitdump/1-55fe756a29268f9b4e786ae468952ca4a8df1bd8/commit-meta.txt",
+		"/home/hondaunispree/Hack_The_Box/Secret/gitdump/2-e297a2797a5f62b6011654cf6fb6ccb6712d2d5b/commit-meta.txt",
+		"/home/hondaunispree/Hack_The_Box/Secret/gitdump/5-4e5547295cfe456d8ca7005cb823e1101fd1f9cb/commit-meta.txt",
+		"/mnt/chromeos/archive/files.zip/local-web/routes/forgot.js",
+		"/mnt/chromeos/archive/files.zip/local-web/routes/private.js",
+		"/mnt/chromeos/archive/files.zip/local-web/index.js",
+		"/mnt/chromeos/archive/files.zip/local-web/model/user.js",
+		"/mnt/chromeos/archive/files.zip/local-web/public/assets/js/docs.js",
+		"/mnt/chromeos/archive/files.zip/local-web/public/assets/js/highlight-custom.js",
+		"/mnt/chromeos/archive/files.zip/local-web/src/routes/s = socket.socket(socket.AF_INET, socket.SOCK_STRE",
+		"/home/hondaunispree/Scripts_Codes/Python/Games/Finished_TicTacToe.py",
+		"/home/hondaunispree/Scripts_Codes/Python/Games/TicTacToe.py",
+		"/home/hondaunispree/Scripts_Codes/Python/Socket_networking/Socket_Client.py",
+		"/home/hondaunispree/Password_cracking/Overpass_hash",
+		"/home/hondaunispree/Documents/PayloadsAllTheThings/Methodology and Resources/Windows - Privilege Escalation.md",
+		"/mnt/chromeos/MyFiles/Downloads/captaiold (1).ovpn",
+		"/home/hondaunispree/Documents/PayloadsAllTheThings/Web Sockets/README.md",
+		"/mnt/chromeos/MyFiles/Downloads/lab_maxxaman (5).ovpn",
+		"/mnt/chromeos/MyFiles/Home/MSSQL Server - Cheatsheet.md",
+		"/mnt/chromeos/MyFiles/Home/Network Pivoting Techniques.md",
+		"/home/hondaunispree/Documents/PayloadsAllTheThings/Methodology and Resources/Windows - Using credentials.md",
+		"/home/hondaunispree/Documents/PayloadsAllTheThings/Methodology and Resources/Reverse Shell Cheatsheet.md",
+		"/home/hondaunispree/Documents/PayloadsAllTheThings/Methodology and Resources/Methodology and enumeration.md",
+		"/home/hondaunispree/Documents/Hashcat_manuals/Formating_Hashes_In_Hashcat.md",
+		"/home/hondaunispree/Documents/PayloadsAllTheThings/Server Side Template Injection/Intruder/ssti.fuzz",
+		"/home/hondaunispree/Exploits/Web_apps/47138.py",
+		"/home/hondaunispree/Documents/crackthis",
+		"/home/hondaunispree/Exploits/phpreverseshell.php5",
+		"/home/hondaunispree/Exploits/PHP-Shells/php-reverse-shell.phtml",
+		"/home/hondaunispree/Try_HackMe/lazyAdmin/NmapScan.md",
+		"/home/hondaunispree/Try_HackMe/lazyAdmin/10246.txt",
+		"/home/hondaunispree/Try_HackMe/lazyAdmin/40692.html",
+		"/mnt/chromeos/MyFiles/Downloads/mysql_bakup_20191129023059-1.5.1.sql",
+		"/mnt/chromeos/MyFiles/Downloads/sitemap (1).xsl",
+		"/home/hondaunispree/Exploits/Web_apps/Strapi/newPass.py",
+		"/home/hondaunispree/Exploits/Web_apps/Strapi/pythonpass.py",
+		"/mnt/chromeos/MyFiles/Downloads/lab_maxxaman (4).ovpn",
+		"/home/hondaunispree/Exploits/Web_apps/Strapi/SetPASS.py",
+		"/mnt/chromeos/archive/siteBackup (1).zip/index.php",
+		"/mnt/chromeos/archive/siteBackup (1).zip/file_logs.php",
+		"/mnt/chromeos/archive/siteBackup (1).zip/login.php",
+		"/mnt/chromeos/archive/siteBackup (1).zip/status.php",
+		"/mnt/chromeos/archive/siteBackup (1).zip/logs.php",
+		"/mnt/chromeos/archive/siteBackup (1).zip/config.php",
+		"/mnt/chromeos/archive/siteBackup (1).zip/accounts.php",
+		"/home/hondaunispree/Scripts_Codes/Python/webScrapper.py",
+		"/mnt/chromeos/MyFiles/Downloads/captaiold (3).ovpn",
+		"/mnt/chromeos/archive/tmp.zip/flag.txt",
+		"/home/hondaunispree/Scripts_Codes/Python/File_Parsing/xmlparse.py",
+		"/home/hondaunispree/nmapScans/nmap_parse.pl",
+		"/home/hondaunispree/Masscan/Port80/port80.xml",
+		"/home/hondaunispree/Hack_The_Box/backdoor/REAME.md",
+		"/home/hondaunispree/Try_HackMe/Lessons/Windows_Hacking/Post-Exploitation-Basics/PowerViewNotes.txt",
+		"/home/hondaunispree/Hack_The_Box/Driver/@something.scf",
+		"/home/hondaunispree/Scripts_Codes/Bash/portkill",
+		"/home/hondaunispree/Hack_The_Box/Driver/Driver.scf",
+		"/mnt/chromeos/MyFiles/Downloads/lab_maxxaman (1).ovpn",
+		"/mnt/chromeos/MyFiles/Downloads/out (5).log",
+		"/home/hondaunispree/Exploits/PHP-Shells/php-reverse-shell.php",
+		"/mnt/chromeos/MyFiles/Downloads/out (3).log",
+		"/mnt/chromeos/MyFiles/Downloads/out (4).log"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 74.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "WebScrapper.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 92.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
