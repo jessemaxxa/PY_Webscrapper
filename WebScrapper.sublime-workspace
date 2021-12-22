@@ -19,6 +19,18 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/home/hondaunispree/Documents/PayloadsAllTheThings/XSS Injection/README.md",
+			"settings":
+			{
+				"buffer_size": 50349,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -47,6 +59,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
 			[
 				"install package ",
 				"Package Control: Install Package"
@@ -79,6 +95,11 @@
 	],
 	"file_history":
 	[
+		"/home/hondaunispree/Documents/PayloadsAllTheThings/XSS Injection/XSS with Relative Path Overwrite.md",
+		"/home/hondaunispree/Documents/PayloadsAllTheThings/Command Injection/Intruder/command_exec.txt",
+		"/home/hondaunispree/Documents/PayloadsAllTheThings/XSS Injection/XSS in Angular.md",
+		"/home/hondaunispree/Documents/PayloadsAllTheThings/Web Sockets/README.md",
+		"/home/hondaunispree/Python_Projects/Web_Scrapper/WebScrapper.py",
 		"/home/hondaunispree/Scripts_Codes/Python/Requests_Network/Looped_requests.py",
 		"/home/hondaunispree/Scripts_Codes/Python/Requests_Network/Params_Requests.py",
 		"/home/hondaunispree/Scripts_Codes/Python/Requests_Network/requestsPractice.py",
@@ -114,7 +135,6 @@
 		"/home/hondaunispree/Password_cracking/Overpass_hash",
 		"/home/hondaunispree/Documents/PayloadsAllTheThings/Methodology and Resources/Windows - Privilege Escalation.md",
 		"/mnt/chromeos/MyFiles/Downloads/captaiold (1).ovpn",
-		"/home/hondaunispree/Documents/PayloadsAllTheThings/Web Sockets/README.md",
 		"/mnt/chromeos/MyFiles/Downloads/lab_maxxaman (5).ovpn",
 		"/mnt/chromeos/MyFiles/Home/MSSQL Server - Cheatsheet.md",
 		"/mnt/chromeos/MyFiles/Home/Network Pivoting Techniques.md",
@@ -197,6 +217,38 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/home/hondaunispree/Documents/PayloadsAllTheThings/XSS Injection/README.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 50349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4127,
+								4244
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 876.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -233,7 +285,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 74.0
+		"height": 108.0
 	},
 	"output.find_results":
 	{
@@ -280,7 +332,7 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 92.0,
 	"status_bar_visible": true,
 	"template_settings":
